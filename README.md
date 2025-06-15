@@ -14,11 +14,7 @@ This project explores the use of the **RedPajama** dataset — an open-source, p
 
 ## 🎯 Project Objectives
 
-Our goal is to explore how combining RedPajama's generalist pretraining base with RefinedWeb's domain-specific content can lead to:
-
-- Smarter, brand-aware chatbots  
-- Improved customer sentiment modeling  
-- Enhanced internal search and business intelligence tools  
+Our goal is to explore how combining RedPajama's generalist pretraining base with RefinedWeb's domain-specific content can lead to Smarter, brand-aware chatbots, Improved customer sentiment and also improve brand ranking from LLM response 
 
 ---
 
